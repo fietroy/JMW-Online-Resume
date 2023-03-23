@@ -1,0 +1,187 @@
+body{
+ 
+font-family: 'Gloock', serif;
+background-color: #D8D8D8;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 5rem;
+    margin-bottom: 10px;
+    color: #408E91;
+  
+   
+}
+h2{
+    font-family: 'PT Serif', serif;
+   color:#245953;
+font-weight: bold;
+}
+
+h3{
+  
+   color:#245953;
+   text-decoration:underline ;
+   margin-top: 20px;
+   margin-bottom: 0px;
+   font-family: 'PT Serif', serif;
+  
+}
+
+h4{
+
+}
+
+h5{
+
+}
+
+h6{
+
+}
+a{
+    text-decoration: none;
+    color: #245953;
+}
+a:hover{
+    color: whitesmoke;
+}
+hr{
+    width: 87%;
+    border: dotted 5px #E49393;
+    border-bottom: none;
+}
+
+td{
+    width: 50rem;
+}
+    
+.contact{
+    text-align: center;
+    font-family: 'Labrada', serif;
+    text-decoration: none;
+}
+
+.exper{position: relative;
+    left: 83px;
+    font-size: 1.875rem;
+    width: 200px;
+}
+.exp{
+    position: relative;
+    left: 170px;
+    width: 900px;
+}
+.ref{
+    text-align: center;
+
+    padding-top: 8px;
+    padding-bottom: 13px;
+}
+
+.jobhead{
+    display: inline;
+    text-align: left;
+    position: relative;
+right: 20px;
+}
+
+.loc{
+    text-align: right;
+    display: inline;
+    position: relative;
+    left: 900px;
+    text-decoration: none;
+    font-family: 'Cambo', serif;
+}
+
+
+.dunkindate{
+    text-align: right;
+    display: inline;
+    position: absolute;
+    left: 1000px;
+    width: 200px;
+}
+
+.upsdate{
+    text-align: right;
+    display: inline;
+    position: absolute;
+    left: 950px;
+    margin-bottom: 10px;
+    width: 200px;
+
+}
+.upsdatetwo{
+    text-align: right;
+    display: inline;
+    position: absolute;
+    left: 950px;
+    bottom: 90px;
+    margin-bottom: 10px;
+    width: 200px;
+}
+.dunkindate{
+    text-align: right;
+    display: inline;
+    position: absolute;
+    left: 950px;
+    margin-bottom: 10px;
+    width: 200px;
+
+}
+
+
+.arbydate{
+    text-align: right;
+    display: inline;
+    position: absolute;
+    left: 945px;
+    width: 200px;
+}
+.arbyloc{
+    text-align: right;
+    display: inline;
+    position: relative;
+    left: 975px;
+    text-decoration: none;
+    font-family: 'Cambo', serif;
+}
+.educationhr{
+    width: 85%;
+}
+
+.edu{
+    position: relative;
+    left: 150px;
+width: 500px;
+}
+.skills-container{
+    position: relative;
+    left: 200px;
+    width: 800px;
+}
+.skills{
+position: relative;
+    left: 170px;
+    margin-bottom: 0%;
+    padding: 0%;
+  display: inline;
+
+}
+.skillshr{
+    width: 75%;
+}
+
+.edu-exp{
+    position: relative;
+    left: 100px;
+    display: inline;
+}
+ .bottom{
+    background-color: #cfcaca;
+    width: 100%;
+    height: 50px;
+ }
